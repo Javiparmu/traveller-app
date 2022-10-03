@@ -1,0 +1,125 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Nexa-Trial-Black.ttf",
+      "sha1": "8ce57532a808692beec5ea5f250823921620a4ec"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-BlackItalic.ttf",
+      "sha1": "c27dc43057843208ca60a0c6772a14a5100b83eb"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-Bold.ttf",
+      "sha1": "d5d92cca2e778cfcbad167a0a679c04af1328f4b"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-BoldItalic.ttf",
+      "sha1": "97e6163fad75e77342254ebe2452e24db3e832d8"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-Book.ttf",
+      "sha1": "14c28508855c564f5d83c545a7243c786c457bb0"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-BookItalic.ttf",
+      "sha1": "1aa965dd59c88ba89f76d3d2adc25e26bc86b145"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-ExtraBold.ttf",
+      "sha1": "2ef421e54b07a81963ae02a0b0c20b0f573c7841"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-ExtraBoldItalic.ttf",
+      "sha1": "fa46ef7f38ca41809ebb997899faeb5573b865ef"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-ExtraLight.ttf",
+      "sha1": "87fdd9b70aa43088abc9218bb1658c1bef6c390b"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-ExtraLightItalic.ttf",
+      "sha1": "9091ace5aa5810600c168dcc6946cf9c687851d1"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-Heavy.ttf",
+      "sha1": "05548af334f25369b59030427a23073767ba185c"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-HeavyItalic.ttf",
+      "sha1": "7fb79226ed2c51b4b404a7d935b440b284b159bc"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-Light.ttf",
+      "sha1": "ac199a58a39117723ef3b2a0afb67dfc0bd90f5a"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-LightItalic.ttf",
+      "sha1": "f3ec004dcac0c0a5eaf9b847d6f0122a2b4b7fd5"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-Regular.ttf",
+      "sha1": "4daa329a0a8ec3b99e7661849616cd1a9191399e"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-RegularItalic.ttf",
+      "sha1": "1f3ddd4378666071ccbfff6362aa9753cf80eb84"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-Thin.ttf",
+      "sha1": "81888533fc85ec8444e2900d2ae5848cd03279d6"
+    },
+    {
+      "path": "assets/fonts/Nexa-Trial-ThinItalic.ttf",
+      "sha1": "39800b09c9498c5c829dca8016f4dc228c54ea30"
+    },
+    {
+      "path": "assets/fonts/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "03d6e3747d862385dbe48e8296385b9236101a62"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "2f10ad9e8cab0880182705c4e0fbaeabae706e64"
+    },
+    {
+      "path": "assets/fonts/Roboto-Italic.ttf",
+      "sha1": "65f3f6a7e1bd2fa6f2df35e4b07775d7f1dde4f0"
+    },
+    {
+      "path": "assets/fonts/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "6e01f9df9449565697032b002706a94b51862bbe"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "b3aa2d8f16d5a331fdced82f213a052b204eaca0"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    },
+    {
+      "path": "assets/fonts/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    },
+    {
+      "path": "assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "cc79d5a23bd0ec08b1d99f5390bf33cacc3082f4"
+    }
+  ]
+}
