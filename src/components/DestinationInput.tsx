@@ -3,6 +3,7 @@ import React, { useContext, useState } from 'react'
 import { GooglePlacesAutocomplete } from 'react-native-google-places-autocomplete';
 import { globalStyles } from '../theme/appTheme';
 import { ThemeContext } from '../context/themeContext/ThemeContext';
+import { GOOGLE_PLACES_APIKEY } from '@env'
 
 interface DestinationInputProps {
     title: string;
@@ -35,7 +36,7 @@ export const DestinationInput = ({ title, onDestinationChange }: DestinationInpu
                         onDestinationChange(data.description);
                     }}
                     query={{
-                        key: 'AIzaSyCXT6UdcGkHpB5tQqpGhZFZvfpUbZepSzw',
+                        key: GOOGLE_PLACES_APIKEY,
                         language: 'es',
                     }}
                     nearbyPlacesAPI='GooglePlacesSearch'
